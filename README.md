@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Graphic and type design
+- 🌱 I’m currently learning full stack Design
+- 😄 Contact: https:// www.instagram.com/carolinelimart
+<a href="https://www.instagram.com/carolinelimart/">Instagram</a>
